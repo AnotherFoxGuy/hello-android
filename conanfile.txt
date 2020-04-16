@@ -1,0 +1,7 @@
+[generators]
+cmake
+virtualenv
+
+[build_requires]
+android_ndk_installer/r21@bincrafters/stable 
+
